@@ -1,0 +1,11 @@
+commande_id,client,ville,produit,categorie,quantite,prix_unitaire,date_commande
+1,Awa,Lomé,Formation Python,Développement,1,25000,2026-10-01
+2,Kofi,Lomé,Formation React,Développement,2,30000,2026-10-02
+3,Fatou,Kara,Formation IA,IA,1,45000,2026-10-03
+4,Yao,Tsévié,Formation Flutter,Mobile,1,35000,2026-10-04
+5,Awa,Lomé,Formation Python,Développement,2,25000,2026-10-05
+6,Kofi,,Formation React,Développement,1,30000,2026-10-06
+7,Fatou,Kara,Formation IA,IA,1,45000,2026-10-06
+8,Awa,Lomé,Formation Python,Développement,1,25000,2026-10-06
+9,Yao,Tsévié,Formation Flutter,Mobile,1,35000,2026-10-07
+10,Kofi,Lomé,Formation React,Développement,1,30000,2026-10-07
